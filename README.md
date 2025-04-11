@@ -2,27 +2,25 @@
 Hello, world! 🌍
 I'm Martin, a 27-year-old cybersecurity enthusiast on a mission to learn, grow, and contribute to the world of ethical hacking and network security.
 
-🔹 My Cybersecurity Journey
-Passionate about penetration testing, threat intelligence, and network security
+🚀 Packet Tracer Projects
+📌 Logical and Physical Mode Exploration
+This project dives into the differences between Logical Mode and Physical Mode in Cisco Packet Tracer. The goal is to understand how network configurations operate logically versus how devices are physically arranged in a network environment.
 
-Actively learning through platforms like TryHackMe, Hack The Box, and CTF challenges
+🔹 Key Focus Areas:
+Setting up network topologies in Logical Mode
 
-Exploring open-source security tools like Wireshark, Metasploit, and Kali Linux
+Visualizing physical placement of networking equipment
 
-Following industry experts like Network Chuck, David Bombal, Darknet Diaries, UnixGuy, Professor Messer, and MadHat
+Exploring how real-world constraints affect network design
 
-🛠 Skills & Areas of Interest
-✔ Ethical Hacking & Penetration Testing ✔ SIEM & Threat Hunting ✔ Cybersecurity Research & Vulnerability Analysis ✔ Cloud & Network Security ✔ Linux & Windows Security Fundamentals
+🌐 Simple Network Activity
+This project focuses on building a basic network setup in Packet Tracer, emphasizing essential concepts such as IP addressing, device connectivity, and basic routing.
 
-🌱 What I’m Working On
-Studying for cybersecurity certifications (CompTIA Security+, CEH, CISSP)
+🔹 Key Focus Areas:
+Configuring routers and switches
 
-Enhancing my scripting skills in Python & Bash for security automation
+Assigning IP addresses and testing connectivity
 
-Collaborating on cybersecurity projects and hands-on labs
+Implementing a simple peer-to-peer communication scenario
 
-🎶 Beyond Cybersecurity
-When I’m not deep-diving into security concepts, I enjoy listening to music, walking, and spending time outdoors with friends.
-
-📫 Let’s Connect!
-If you share a passion for cybersecurity, ethical hacking, or tech in general, feel free to reach out! Let’s learn together and build a safer digital world. 🚀
+These projects are excellent for hands-on learning and reinforcing cybersecurity principles within networking.
